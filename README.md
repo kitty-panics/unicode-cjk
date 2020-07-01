@@ -41,10 +41,10 @@ U+5982	如
     + 扩展 F 区 (U+2CEB0-U+2EBEF，共 7473 字)。
 + [CJK-G.txt](CJK-G.txt)
     + 扩展 G 区 (U+30000-U+3134A，共 4,939 字)。
-+ CJK-Compat.txt
-    + ...
-+ CJK-Compat-Supplement.txt
-    + ...
++ [CJK-Compat.txt](CJK-Compat.txt)
+    + CJK 兼容汉字
++ [CJK-Compat-Supplement.txt](CJK-Compat-Supplement.txt)
+    + CJK 兼容汉字补充
 
 ## 参考资料
 
@@ -65,9 +65,13 @@ U+5982	如
 
 ## [cj-tables]
 
-收集整理中/日的国标汉字表。
+收集整理中/日的国标汉字表，即 [通用规范汉字表]、
+[常用国字标准字体表(甲表)]、[次常用国字标准字体表(乙表)]、
 
 [cj-tables]: https://github.com/aj-ash/cj-tables
+[通用规范汉字表]: https://zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8
+[常用国字标准字体表(甲表)]: https://zh.wikipedia.org/wiki/%E5%B8%B8%E7%94%A8%E5%9C%8B%E5%AD%97%E6%A8%99%E6%BA%96%E5%AD%97%E9%AB%94%E8%A1%A8
+[次常用国字标准字体表(乙表)]: https://zh.wikipedia.org/wiki/%E5%B8%B8%E7%94%A8%E5%9C%8B%E5%AD%97%E6%A8%99%E6%BA%96%E5%AD%97%E9%AB%94%E8%A1%A8
 
 ## [unicode-cjk]
 
@@ -89,37 +93,42 @@ U+5982	如
 
 ## [unicode-cjk-98wubi]
 
-以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "98版五笔" 码表。
+以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "[98版五笔]" 码表。
 
 [unicode-cjk-98wubi]: https://github.com/aj-ash/unicode-cjk-98wubi
+[98版五笔]: http://98wb.ys168.com/
 
 ## [unicode-cjk-ids]
 
-备份 [chise/ids.git] 仓库。
+备份 "[chise/ids.git]" 仓库。
 
 [unicode-cjk-ids]: https://github.com/aj-ash/unicode-cjk-ids
 [chise/ids.git]: http://git.chise.org/git/chise/ids.git
 
 ## [unicode-cjk-newwb]
 
-以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "牛码五笔" 码表。
+以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "[牛码五笔]" 码表。
 
 [unicode-cjk-newwb]: https://github.com/aj-ash/unicode-cjk-newwb
+[牛码五笔]: http://newwb.ys168.com/
 
 ## [unicode-cjk-xuma]
 
-以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "徐码" 码表。
+以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "[徐码]" 码表。
 
 [unicode-cjk-xuma]: https://github.com/aj-ash/unicode-cjk-xuma
+[徐码]: https://www.xumax.top/
 
 ## [unicode-cjk-zhengma]
 
-以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "郑码" 码表。
+以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "[郑码]" 码表。
 
 [unicode-cjk-zhengma]: https://github.com/aj-ash/unicode-cjk-zhengma
+[郑码]: http://zmdisk.ys168.com/
 
 ## [unicode-cjk-zihai]
 
-以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "字海两分" 的码表。
+以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "[字海两分]" 的码表。
 
 [unicode-cjk-zihai]: https://github.com/aj-ash/unicode-cjk-zihai
+[字海两分]: http://cheonhyeong.com/Simplified/download.html
