@@ -26,9 +26,9 @@ U+4E00	一
 + [CJK-All.txt](CJK-All.txt)
     + 整合下面 CJK-Basic/A/B/C/D/E/F/G/Compat/Compat-Supplement。
 + [CJK-Basic.txt](CJK-Basic.txt)
-    + 基本区 (代码点：U+4E00-U+9FFF (20992 个)，已使用：U+4E00-U+9FFC (20989 字))。
+    + 基本区 (代码点：U+4E00-U+9FFF (20992 个)，已使用：U+3007,U+4E00-U+9FFC (1+20989=20990 字))。
 + [CJK-A.txt](CJK-A.txt)
-    + 扩展 A 区 (代码点：U+3400-U+4DBF (6593 个)，已使用：U+3400-U+4DBF (6593 字))。
+    + 扩展 A 区 (代码点：U+3400-U+4DBF (6592 个)，已使用：U+3400-U+4DBF (6592 字))。
 + [CJK-B.txt](CJK-B.txt)
     + 扩展 B 区 (代码点：U+20000-U+2A6DF (42720 个)，已使用：U+20000-U+2A6DD (42718 字))。
 + [CJK-C.txt](CJK-C.txt)
