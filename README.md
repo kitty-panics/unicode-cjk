@@ -18,44 +18,48 @@
 每个文件一行一字，例：
 
 ```Text
-U+5982	如
+U+4E00	一
 ```
 
 ## 文件列表
 
 + [CJK-All.txt](CJK-All.txt)
-    + 整合下面所有的文件。
+    + 整合下面 CJK-Basic/A/B/C/D/E/F/G/Compat/Compat-Supplement。
 + [CJK-Basic.txt](CJK-Basic.txt)
-    + 基本区 (U+4E00-U+9FA5，共 20,902 字)。
+    + 基本区 (代码点：U+4E00-U+9FFF (20992 个)，已使用：U+4E00-U+9FFC (20989 字))。
 + [CJK-A.txt](CJK-A.txt)
-    + 扩展 A 区 (U+3400-U+4DB5，共 6,582 字)。
+    + 扩展 A 区 (代码点：U+3400-U+4DBF (6592 个)，已使用：U+3400-U+4DBF (6592 字))。
 + [CJK-B.txt](CJK-B.txt)
-    + 扩展 B 区 (U+20000-U+2A6D6，共 42,711 字)。
+    + 扩展 B 区 (代码点：U+20000-U+2A6DF (42720 个)，已使用：U+20000-U+2A6DD (42718 字))。
 + [CJK-C.txt](CJK-C.txt)
-    + 扩展 C 区(U+2A700-U+2B734，共 4,149 字)。
+    + 扩展 C 区 (代码点：U+2A700-U+2B73F (4160 个)，已使用：U+2A700-U+2B734 (4149 字))。
 + [CJK-D.txt](CJK-D.txt)
-    + 扩展 D 区 (U+2B740-U+2B81F，共 222 字)。
+    + 扩展 D 区 (代码点：U+2B740-U+2B81F (224 个)，已使用：U+2B740-U+2B81D (222 字))。
 + [CJK-E.txt](CJK-E.txt)
-    + 扩展 E 区 (U+2B820-U+2CEAF，共 5762 字)。
+    + 扩展 E 区 (代码点：U+2B820-U+2CEAF (5776 个)，已使用：U+2B820-U+2CEA1 (5762 字))。
 + [CJK-F.txt](CJK-F.txt)
-    + 扩展 F 区 (U+2CEB0-U+2EBEF，共 7473 字)。
+    + 扩展 F 区 (代码点：U+2CEB00-U+2EBEF (7488 个)，已使用：U+2CEB0-U+2EBE0 (7473 字))。
 + [CJK-G.txt](CJK-G.txt)
-    + 扩展 G 区 (U+30000-U+3134A，共 4,939 字)。
+    + 扩展 G 区 (代码点：U+30000-U+3134F (4944 个)，已使用：U+30000-U+3134A (4939 字))。
 + [CJK-Compat.txt](CJK-Compat.txt)
-    + CJK 兼容汉字
+    + 兼容表意文字区 (代码点：U+F900-U+FAFF (512 个)，已使用：U+F900-U+FA6D,U+FA70-U+FAD9 (472 字))。
 + [CJK-Compat-Supplement.txt](CJK-Compat-Supplement.txt)
-    + CJK 兼容汉字补充
+    + 兼容表意文字补充区 (代码点：U+2F800-U+2FA1F (544 个)，已使用：U+2F800-U+2FA1D (542 字))。
+
+**注：**
+
+为方便管理，将争议汉字 "〇" 由 "符号和标点区" 移动到 "基本区 (CJK-Basic.txt)"，并置于文件开头。
 
 ## 参考资料
 
 参考资料可在 [参考资料](参考资料) 目录下找到。其中为防止外链失效，
-外链中的资料在 [参考资料快照](参考资料快照) 目录中存有 PDF 快照。
+外链引用的资料在 [参考资料快照](参考资料快照) 目录中存有 PDF 快照。
 
-+ [chise/ids.git]
-+ [中日韩统一表意文字/版本]
++ [Blocks.txt - Unicode]
++ [分类:CJK - 维基百科]
 
-[chise/ids.git]: http://git.chise.org/git/chise/ids.git
-[中日韩统一表意文字/版本]: https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%B5%B1%E4%B8%80%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97#%E7%89%88%E6%9C%AC
+[Blocks.txt - Unicode]: https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt
+[分类:CJK - 维基百科]: https://zh.wikipedia.org/wiki/Category:CJK
 
 ## 教程
 
@@ -66,7 +70,7 @@ U+5982	如
 ## [cj-tables]
 
 收集整理中/日的国标汉字表，即 [通用规范汉字表]、
-[常用国字标准字体表(甲表)]、[次常用国字标准字体表(乙表)]、
+[常用国字标准字体表(甲表)]、[次常用国字标准字体表(乙表)]。
 
 [cj-tables]: https://github.com/aj-ash/cj-tables
 [通用规范汉字表]: https://zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8
@@ -97,6 +101,24 @@ U+5982	如
 
 [unicode-cjk-98wubi]: https://github.com/aj-ash/unicode-cjk-98wubi
 [98版五笔]: http://98wb.ys168.com/
+
+## [unicode-cjk-cangjie3]
+
+以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "仓颉3" 码表。
+
+[unicode-cjk-cangjie3]: https://github.com/aj-ash/unicode-cjk-cangjie3
+
+## [unicode-cjk-cangjie5]
+
+以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "仓颉5" 码表。
+
+[unicode-cjk-cangjie5]: https://github.com/aj-ash/unicode-cjk-cangjie5
+
+## [unicode-cjk-cangjie6]
+
+以 CJK/CJK-A/B/C/D/E/F/G 的形式整理 "仓颉6 (苍检)" 码表。
+
+[unicode-cjk-cangjie6]: https://github.com/aj-ash/unicode-cjk-cangjie6
 
 ## [unicode-cjk-ids]
 

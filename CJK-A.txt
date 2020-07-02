@@ -1,3 +1,4 @@
+U+3007	〇
 U+3400	㐀
 U+3401	㐁
 U+3402	㐂
@@ -6580,5 +6581,13 @@ U+4DB2	䶲
 U+4DB3	䶳
 U+4DB4	䶴
 U+4DB5	䶵
-U+FA1F	﨟
-U+FA23	﨣
+U+4DB6	䶶
+U+4DB7	䶷
+U+4DB8	䶸
+U+4DB9	䶹
+U+4DBA	䶺
+U+4DBB	䶻
+U+4DBC	䶼
+U+4DBD	䶽
+U+4DBE	䶾
+U+4DBF	䶿
