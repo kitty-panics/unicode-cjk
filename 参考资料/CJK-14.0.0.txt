@@ -1,0 +1,16 @@
+2E80....2EFF  CJK Radicals Supplement                  中日韩汉字部首补充
+3000....303F  CJK Symbols and Punctuation              中日韩符号和标点
+31C0....31EF  CJK Strokes                              中日韩笔画
+3200....32FF  Enclosed CJK Letters and Months          带圈的CJK字符及月份
+3300....33FF  CJK Compatibility                        中日韩兼容字符
+3400....4DBF  CJK Unified Ideographs Extension A       中日韩统一表意文字扩展区A
+4E00....9FFF  CJK Unified Ideographs                   中日韩统一表意文字
+F900....FAFF  CJK Compatibility Ideographs             中日韩兼容表意文字
+FE30....FE4F  CJK Compatibility Forms                  中日韩兼容形式
+20000..2A6DF  CJK Unified Ideographs Extension B       中日韩统一表意文字扩展区B
+2A700..2B73F  CJK Unified Ideographs Extension C       中日韩统一表意文字扩展区C
+2B740..2B81F  CJK Unified Ideographs Extension D       中日韩统一表意文字扩展区D
+2B820..2CEAF  CJK Unified Ideographs Extension E       中日韩统一表意文字扩展区E
+2CEB0..2EBEF  CJK Unified Ideographs Extension F       中日韩统一表意文字扩展区F
+2F800..2FA1F  CJK Compatibility Ideographs Supplement  中日韩兼容表意文字增补
+30000..3134F  CJK Unified Ideographs Extension G       中日韩统一表意文字扩展G区
