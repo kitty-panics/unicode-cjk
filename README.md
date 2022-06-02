@@ -23,36 +23,38 @@ U+4E00	一
 
 ## 文件列表
 
-+ [CJK-All.txt](CJK-All.txt)
-    + 整合下面 CJK/A/B/C/D/E/F/G/Compat/Compat-Supplement。
-+ [CJK-Basic.txt](CJK-Basic.txt) (基本区)
++ [All.txt](All.txt)
+    + 整合下面 CJK/A/B/C/D/E/F/G/Compatibility/Compatibility-Supplement。
+
+
++ [CJK-Unified-Ideographs.txt](CJK-Unified-Ideographs.txt) (中日韩统一表意文字)
     + 代码点：U+3007, U+4E00-U+9FFF (1 + 20992 个)
-    + 已使用：U+3007, U+4E00-U+9FFC (1 + 20989 字)
-+ [CJK-A.txt](CJK-A.txt) (扩展区 A)
+    + 已使用：U+3007, U+4E00-U+9FFF (1 + 20992 字)
++ [CJK-Unified-Ideographs-Extension-A.txt](CJK-Unified-Ideographs-Extension-A.txt) (中日韩统一表意文字扩展区 A)
     + 代码点：U+3400-U+4DBF (6592 个)
     + 已使用：U+3400-U+4DBF (6592 字)
-+ [CJK-B.txt](CJK-B.txt) (扩展区 B)
++ [CJK-Unified-Ideographs-Extension-B.txt](CJK-Unified-Ideographs-Extension-B.txt) (中日韩统一表意文字扩展区 B)
     + 代码点：U+20000-U+2A6DF (42720 个)
     + 已使用：U+20000-U+2A6DF (42720 字)
-+ [CJK-C.txt](CJK-C.txt) (扩展区 C)
++ [CJK-Unified-Ideographs-Extension-C.txt](CJK-Unified-Ideographs-Extension-C.txt) (中日韩统一表意文字扩展区 C)
     + 代码点：U+2A700-U+2B73F (4160 个)
     + 已使用：U+2A700-U+2B738 (4153 字)
-+ [CJK-D.txt](CJK-D.txt) (扩展区 D)
++ [CJK-Unified-Ideographs-Extension-D.txt](CJK-Unified-Ideographs-Extension-D.txt) (中日韩统一表意文字扩展区 D)
     + 代码点：U+2B740-U+2B81F (224 个)
     + 已使用：U+2B740-U+2B81D (222 字)
-+ [CJK-E.txt](CJK-E.txt) (扩展区 E)
++ [CJK-Unified-Ideographs-Extension-E.txt](CJK-Unified-Ideographs-Extension-E.txt) (中日韩统一表意文字扩展区 E)
     + 代码点：U+2B820-U+2CEAF (5776 个)
     + 已使用：U+2B820-U+2CEA1 (5762 字)
-+ [CJK-F.txt](CJK-F.txt) (扩展区 F)
-    + 代码点：U+2CEB00-U+2EBEF (7488 个)
++ [CJK-Unified-Ideographs-Extension-F.txt](CJK-Unified-Ideographs-Extension-F.txt) (中日韩统一表意文字扩展区 F)
+    + 代码点：U+2CEB0-U+2EBEF (7488 个)
     + 已使用：U+2CEB0-U+2EBE0 (7473 字)
-+ [CJK-G.txt](CJK-G.txt) (扩展区 G)
++ [CJK-Unified-Ideographs-Extension-G.txt](CJK-Unified-Ideographs-Extension-G.txt) (中日韩统一表意文字扩展区 G)
     + 代码点：U+30000-U+3134F (4944 个)
     + 已使用：U+30000-U+3134A (4939 字)
-+ [CJK-Compat.txt](CJK-Compat.txt) (兼容表意文字)
++ [CJK-Compatibility-Ideographs.txt](CJK-Compatibility-Ideographs.txt) (中日韩兼容表意文字)
     + 代码点：U+F900-U+FAFF (512 个)
     + 已使用：U+F900-U+FA6D, U+FA70-U+FAD9 (472 字)
-+ [CJK-Compat-Supplement.txt](CJK-Compat-Supplement.txt) (兼容表意文字增补)
++ [CJK-Compatibility-Ideographs-Supplement.txt](CJK-Compatibility-Ideographs-Supplement.txt) (中日韩兼容表意文字增补)
     + 代码点：U+2F800-U+2FA1F (544 个)
     + 已使用：U+2F800-U+2FA1D (542 字)
 
@@ -75,12 +77,12 @@ U+4E00	一
 
 ## 相关项目
 
-### [cj-tables]
+### [cn-tables]
 
 收集整理中国的国标汉字表，即 [通用规范汉字表]、[常用标准字体表 (甲表)]、
 [次常用标准字体表 (乙表)]。
 
-[cj-tables]: https://github.com/kitty-panics/cj-tables
+[cj-tables]: https://github.com/kitty-panics/cn-tables
 [通用规范汉字表]: https://zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8
 [常用标准字体表 (甲表)]: https://zh.wikipedia.org/wiki/%E5%B8%B8%E7%94%A8%E5%9C%8B%E5%AD%97%E6%A8%99%E6%BA%96%E5%AD%97%E9%AB%94%E8%A1%A8
 [次常用标准字体表 (乙表)]: https://baike.baidu.com/item/%E6%AC%A1%E5%B8%B8%E7%94%A8%E5%9B%BD%E5%AD%97%E6%A0%87%E5%87%86%E5%AD%97%E4%BD%93%E8%A1%A8
