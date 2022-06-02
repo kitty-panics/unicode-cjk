@@ -80,7 +80,7 @@ U+4E00	一
 收集整理中国的国标汉字表，即 [通用规范汉字表]、[常用标准字体表 (甲表)]、
 [次常用标准字体表 (乙表)]。
 
-[cj-tables]: https://github.com/kitty-panics/cn-tables
+[cn-tables]: https://github.com/kitty-panics/cn-tables
 [通用规范汉字表]: https://zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8
 [常用标准字体表 (甲表)]: https://zh.wikipedia.org/wiki/%E5%B8%B8%E7%94%A8%E5%9C%8B%E5%AD%97%E6%A8%99%E6%BA%96%E5%AD%97%E9%AB%94%E8%A1%A8
 [次常用标准字体表 (乙表)]: https://baike.baidu.com/item/%E6%AC%A1%E5%B8%B8%E7%94%A8%E5%9B%BD%E5%AD%97%E6%A0%87%E5%87%86%E5%AD%97%E4%BD%93%E8%A1%A8
