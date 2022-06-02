@@ -25,8 +25,6 @@ U+4E00	一
 
 + [All.txt](All.txt)
     + 整合下面 CJK/A/B/C/D/E/F/G/Compatibility/Compatibility-Supplement。
-
-
 + [CJK-Unified-Ideographs.txt](CJK-Unified-Ideographs.txt) (中日韩统一表意文字)
     + 代码点：U+3007, U+4E00-U+9FFF (1 + 20992 个)
     + 已使用：U+3007, U+4E00-U+9FFF (1 + 20992 字)
