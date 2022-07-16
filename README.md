@@ -26,37 +26,43 @@ U+4E02	丂
 
 ## 文件列表
 
-+ [All.txt] (整合下面 CJK-Basic/A/B/C/D/E/F/G/Compat/Compat-Supplement)
++ [All.txt] (整合下面 CJK-Basic/A/B/C/D/E/F/G/Compat/Compat-Supplement/Radicals-Supplement/Strokes)
 + [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
     + 代码点：U+3007, U+4E00-U+9FFF (1 + 20992 个)。
-    + 已使用：U+3007, U+4E00-U+9FFF (1 + 20992 字)。
+    + 已使用：U+3007, U+4E00-U+9FFF (1 + 20992 个)。
 + [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
     + 代码点：U+3400-U+4DBF (6592 个)。
-    + 已使用：U+3400-U+4DBF (6592 字)。
+    + 已使用：U+3400-U+4DBF (6592 个)。
 + [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
     + 代码点：U+20000-U+2A6DF (42720 个)。
-    + 已使用：U+20000-U+2A6DF (42720 字)。
+    + 已使用：U+20000-U+2A6DF (42720 个)。
 + [CJK-Unified-Ideographs-Extension-C.txt] (中日韩统一表意文字扩展区 C)
     + 代码点：U+2A700-U+2B73F (4160 个)。
-    + 已使用：U+2A700-U+2B738 (4153 字)。
+    + 已使用：U+2A700-U+2B738 (4153 个)。
 + [CJK-Unified-Ideographs-Extension-D.txt] (中日韩统一表意文字扩展区 D)
     + 代码点：U+2B740-U+2B81F (224 个)。
-    + 已使用：U+2B740-U+2B81D (222 字)。
+    + 已使用：U+2B740-U+2B81D (222 个)。
 + [CJK-Unified-Ideographs-Extension-E.txt] (中日韩统一表意文字扩展区 E)
     + 代码点：U+2B820-U+2CEAF (5776 个)。
-    + 已使用：U+2B820-U+2CEA1 (5762 字)。
+    + 已使用：U+2B820-U+2CEA1 (5762 个)。
 + [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F)
     + 代码点：U+2CEB0-U+2EBEF (7488 个)。
-    + 已使用：U+2CEB0-U+2EBE0 (7473 字)。
+    + 已使用：U+2CEB0-U+2EBE0 (7473 个)。
 + [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
     + 代码点：U+30000-U+3134F (4944 个)。
-    + 已使用：U+30000-U+3134A (4939 字)。
+    + 已使用：U+30000-U+3134A (4939 个)。
 + [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
     + 代码点：U+F900-U+FAFF (512 个)。
-    + 已使用：U+F900-U+FA6D, U+FA70-U+FAD9 (472 字)。
+    + 已使用：U+F900-U+FA6D, U+FA70-U+FAD9 (472 个)。
 + [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
     + 代码点：U+2F800-U+2FA1F (544 个)。
-    + 已使用：U+2F800-U+2FA1D (542 字)。
+    + 已使用：U+2F800-U+2FA1D (542 个)。
++ [CJK-Radicals-Supplement.txt] (中日韩汉字部首补充)
+    + 代码点：U+2E80-U+2EFF (128 个)
+    + 已使用：U+2E80-U+2E99, U+2E9B-U+2EF3 (115 个)
++ [CJK-Strokes.txt] (中日韩笔画)
+    + 代码点：U+31C0-U+31EF (48 个)
+    + 已使用：U+31C0-U+31E3 (36 个)
 
 **注：**
 
@@ -74,6 +80,8 @@ U+4E02	丂
 [CJK-Unified-Ideographs-Extension-G.txt]: CJK-Unified-Ideographs-Extension-G.txt
 [CJK-Compatibility-Ideographs.txt]: CJK-Compatibility-Ideographs.txt
 [CJK-Compatibility-Ideographs-Supplement.txt]: CJK-Compatibility-Ideographs-Supplement.txt
+[CJK-Radicals-Supplement.txt]: CJK-Radicals-Supplement.txt
+[CJK-Strokes.txt]: CJK-Strokes.txt
 
 ## 参考资料
 
