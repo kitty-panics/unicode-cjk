@@ -15,3 +15,4 @@ FE30....FE4F  CJK Compatibility Forms                  中日韩兼容形式
 2CEB0..2EBEF  CJK Unified Ideographs Extension F       中日韩统一表意文字扩展区 F
 2F800..2FA1F  CJK Compatibility Ideographs Supplement  中日韩兼容表意文字增补
 30000..3134F  CJK Unified Ideographs Extension G       中日韩统一表意文字扩展区 G
+31350..323AF  CJK Unified Ideographs Extension H       中日韩统一表意文字扩展区 H

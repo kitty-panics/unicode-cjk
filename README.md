@@ -27,12 +27,24 @@ U+4E02	丂
 ## 文件列表
 
 + [All.txt] (整合下面 CJK-Basic/A/B/C/D/E/F/G/Compat/Compat-Supplement/Radicals-Supplement/Strokes)
-+ [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
-    + 代码点：U+3007, U+4E00-U+9FFF (1 + 20992 个)。
-    + 已使用：U+3007, U+4E00-U+9FFF (1 + 20992 个)。
++ [CJK-Radicals-Supplement.txt] (中日韩汉字部首补充)
+    + 代码点：U+2E80-U+2EFF (128 个)
+    + 已使用：U+2E80-U+2E99, U+2E9B-U+2EF3 (115 个)
++ [Kangxi-Radicals.txt] (康熙部首)
+    + 代码点：U+2F00-U+2FDF (224 个)
+    + 已使用：U+2F00-U+2FD5 (214 个)
++ [CJK-Strokes.txt] (中日韩笔画)
+    + 代码点：U+31C0-U+31EF (48 个)
+    + 已使用：U+31C0-U+31E3 (36 个)
 + [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
     + 代码点：U+3400-U+4DBF (6592 个)。
     + 已使用：U+3400-U+4DBF (6592 个)。
++ [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
+    + 代码点：U+3007, U+4E00-U+9FFF (1 + 20992 个)。
+    + 已使用：U+3007, U+4E00-U+9FFF (1 + 20992 个)。
++ [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
+    + 代码点：U+F900-U+FAFF (512 个)。
+    + 已使用：U+F900-U+FA6D, U+FA70-U+FAD9 (472 个)。
 + [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
     + 代码点：U+20000-U+2A6DF (42720 个)。
     + 已使用：U+20000-U+2A6DF (42720 个)。
@@ -48,43 +60,35 @@ U+4E02	丂
 + [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F)
     + 代码点：U+2CEB0-U+2EBEF (7488 个)。
     + 已使用：U+2CEB0-U+2EBE0 (7473 个)。
-+ [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
-    + 代码点：U+30000-U+3134F (4944 个)。
-    + 已使用：U+30000-U+3134A (4939 个)。
-+ [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
-    + 代码点：U+F900-U+FAFF (512 个)。
-    + 已使用：U+F900-U+FA6D, U+FA70-U+FAD9 (472 个)。
 + [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
     + 代码点：U+2F800-U+2FA1F (544 个)。
     + 已使用：U+2F800-U+2FA1D (542 个)。
-+ [CJK-Radicals-Supplement.txt] (中日韩汉字部首补充)
-    + 代码点：U+2E80-U+2EFF (128 个)
-    + 已使用：U+2E80-U+2E99, U+2E9B-U+2EF3 (115 个)
-+ [Kangxi-Radicals.txt] (康熙部首)
-    + 代码点：U+2F00-U+2FDF (224 个)
-    + 已使用：U+2F00-U+2FD5 (214 个)
-+ [CJK-Strokes.txt] (中日韩笔画)
-    + 代码点：U+31C0-U+31EF (48 个)
-    + 已使用：U+31C0-U+31E3 (36 个)
++ [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
+    + 代码点：U+30000-U+3134F (4944 个)。
+    + 已使用：U+30000-U+3134A (4939 个)。
++ [CJK-Unified-Ideographs-Extension-H.txt] (中日韩统一表意文字扩展区 H)
+    + 代码点：U+31350-U+323AF (4192 个)。
+    + 已使用：U+31350-U+323AF (4192 个)。
 
 **注：**
 
-为方便管理，将争议字符 "〇 U+3007" 由 "CJK Symbols and Punctuation (中日韩符号和标点)"
-移动到 "CJK Unified Ideographs (中日韩统一表意文字)"，并置于文件开头。
+为方便管理，将争议字符 "U+3007  〇" 添加到 "All.txt"，并置于文件开头。
 
 [All.txt]: All.txt
-[CJK-Unified-Ideographs.txt]: CJK-Unified-Ideographs.txt
+[CJK-Radicals-Supplement.txt]: CJK-Radicals-Supplement.txt
+[Kangxi-Radicals.txt]: Kangxi-Radicals.txt
+[CJK-Strokes.txt]: CJK-Strokes.txt
 [CJK-Unified-Ideographs-Extension-A.txt]: CJK-Unified-Ideographs-Extension-A.txt
+[CJK-Unified-Ideographs.txt]: CJK-Unified-Ideographs.txt
+[CJK-Compatibility-Ideographs.txt]: CJK-Compatibility-Ideographs.txt
 [CJK-Unified-Ideographs-Extension-B.txt]: CJK-Unified-Ideographs-Extension-B.txt
 [CJK-Unified-Ideographs-Extension-C.txt]: CJK-Unified-Ideographs-Extension-C.txt
 [CJK-Unified-Ideographs-Extension-D.txt]: CJK-Unified-Ideographs-Extension-D.txt
 [CJK-Unified-Ideographs-Extension-E.txt]: CJK-Unified-Ideographs-Extension-E.txt
 [CJK-Unified-Ideographs-Extension-F.txt]: CJK-Unified-Ideographs-Extension-F.txt
-[CJK-Unified-Ideographs-Extension-G.txt]: CJK-Unified-Ideographs-Extension-G.txt
-[CJK-Compatibility-Ideographs.txt]: CJK-Compatibility-Ideographs.txt
 [CJK-Compatibility-Ideographs-Supplement.txt]: CJK-Compatibility-Ideographs-Supplement.txt
-[CJK-Radicals-Supplement.txt]: CJK-Radicals-Supplement.txt
-[CJK-Strokes.txt]: CJK-Strokes.txt
+[CJK-Unified-Ideographs-Extension-G.txt]: CJK-Unified-Ideographs-Extension-G.txt
+[CJK-Unified-Ideographs-Extension-H.txt]: CJK-Unified-Ideographs-Extension-H.txt
 
 ## 参考资料
 

@@ -24,6 +24,7 @@ U+2E96	⺖
 U+2E97	⺗
 U+2E98	⺘
 U+2E99	⺙
+U+2E9A	⺚
 U+2E9B	⺛
 U+2E9C	⺜
 U+2E9D	⺝
@@ -113,3 +114,15 @@ U+2EF0	⻰
 U+2EF1	⻱
 U+2EF2	⻲
 U+2EF3	⻳
+U+2EF4	⻴
+U+2EF5	⻵
+U+2EF6	⻶
+U+2EF7	⻷
+U+2EF8	⻸
+U+2EF9	⻹
+U+2EFA	⻺
+U+2EFB	⻻
+U+2EFC	⻼
+U+2EFD	⻽
+U+2EFE	⻾
+U+2EFF	⻿
