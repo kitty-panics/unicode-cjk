@@ -35,7 +35,7 @@ U+2E83	⺃
     + 已使用：U+2F00-U+2FD5 (214 个)
 + [CJK-Symbols-and-Punctuation.txt] (中日韩符号和标点)
     + 代码点：U+3000-U+303F (64 个)
-    + ~~已使用：U+3007 (1 个)~~
+    + 已使用：U+3007 (1 个)
 + [CJK-Strokes.txt] (中日韩笔画)
     + 代码点：U+31C0-U+31EF (48 个)
     + 已使用：U+31C0-U+31E3 (36 个)
@@ -72,6 +72,9 @@ U+2E83	⺃
 + [CJK-Unified-Ideographs-Extension-H.txt] (中日韩统一表意文字扩展区 H)
     + 代码点：U+31350-U+323AF (4192 个)。
     + 已使用：U+31350-U+323AF (4192 个)。
++ [CJK-Unified-Ideographs-Extension-I.txt] (中日韩统一表意文字扩展区 I)
+    + 代码点：U+2EBF0-U+2EE5F (624 个)。
+    + 已使用：U+2EBF0-U+2EE5D (622 个)。
 
 [All.txt]: All.txt
 [CJK-Radicals-Supplement.txt]: CJK-Radicals-Supplement.txt
@@ -89,15 +92,20 @@ U+2E83	⺃
 [CJK-Compatibility-Ideographs-Supplement.txt]: CJK-Compatibility-Ideographs-Supplement.txt
 [CJK-Unified-Ideographs-Extension-G.txt]: CJK-Unified-Ideographs-Extension-G.txt
 [CJK-Unified-Ideographs-Extension-H.txt]: CJK-Unified-Ideographs-Extension-H.txt
+[CJK-Unified-Ideographs-Extension-I.txt]: CJK-Unified-Ideographs-Extension-I.txt
 
 ## 参考资料
 
 参考资料可在 [参考资料] 目录下找到。其中非文件类的在线资料将转换成 PDF 快照存放。
 
 + [Blocks.txt]
++ [字符集 - 字海网，叶典网]
++ [中日韩统一表意文字 - 维基百科]
 
 [参考资料]: 参考资料
 [Blocks.txt]: https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt
+[字符集 - 字海网，叶典网]: http://www.yedict.com/zsts.htm
+[中日韩统一表意文字 - 维基百科]: https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%B5%B1%E4%B8%80%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97
 
 ## 相关项目
 
